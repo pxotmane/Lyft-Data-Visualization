@@ -7,6 +7,9 @@ This project is about Bay Wheels (called also Ford GoBike after a partnership wi
 - Python, Numpy, Pandas, Matplotlib, Seaborn
 - LaTex
 - Jupyter Notebook  
+
+### Dataset sources
+[Bay Wheels Data](https://s3.amazonaws.com/baywheels-data/index.html)
  
 ### The structure of dataset
 
